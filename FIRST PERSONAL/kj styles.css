@@ -1,0 +1,47 @@
+body{
+	 background: url(https://thumbs.dreamstime.com/b/pharmacy-otc-products-turkey-64209774.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+	height: 100%;
+	width: 100%;
+}
+
+.container{
+	display: block;
+	justify-content: center;
+	align-content: center;
+}
+
+h1{
+	font-family: serif;
+	font-size: 40px;
+	text-decoration: none;
+	color:black;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+li{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: brown;
+
+}
+
+
+button{
+	border-color:brown;
+	border-radius:30px;
+	padding:20px 20px;
+	margin-left: 165px;
+}
+a{
+	color:blue;
+	font-style: uppercase;
+	font-size: 20px;
+}

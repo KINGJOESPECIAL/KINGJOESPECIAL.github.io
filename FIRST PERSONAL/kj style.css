@@ -1,0 +1,9 @@
+body{
+	 background: url(https://www.shutterstock.com/image-vector/abstract-geometric-shape-medicine-science-260nw-767767987.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: inherit;
+  font-size: 15px;
+}
